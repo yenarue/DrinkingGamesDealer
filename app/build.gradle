@@ -31,6 +31,22 @@ dependencies {
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'androidx.core:core-ktx:1.0.2'
+
+    // Koin for Kotlin
+    implementation "org.koin:koin-core:2.0.1"
+    // Koin extended & experimental features
+    implementation "org.koin:koin-core-ext:2.0.1"
+    // Koin for Unit tests
+    testImplementation "org.koin:koin-test:2.0.1"
+    // Koin for Java developers
+    implementation "org.koin:koin-java:2.0.1"
+    // Koin AndroidX Scope features
+    implementation "org.koin:koin-androidx-scope:2.0.1"
+    // Koin AndroidX ViewModel features
+    implementation "org.koin:koin-androidx-viewmodel:2.0.1"
+    // Koin AndroidX Experimental features
+    implementation "org.koin:koin-androidx-ext:2.0.1"
+
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
