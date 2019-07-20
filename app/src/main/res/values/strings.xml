@@ -2,4 +2,7 @@
     <string name="app_name">DrinkingDealer</string>
   <string name="korean_alphabet_game_guide">* 화면에 두개의 자음이 나타납니다\n* 그 자음에 맞는 단어를 외치세요! (ex. ㅇㅇ -> 우유)\n* 최후의 1인이 남거나 제한 시간이 지나면 게임이 끝납니다!</string>
   <string name="korean_alphabet_game_guide_rules">규칙1 : 제한 시간 안에 모두 성공한 경우\n👉🏻 마지막 사람이 벌칙\n규칙2 : 제한 시간 안에 모두 성공하지 못한 경우\n👉🏻 성공하지 못한 사람들 모두 벌칙</string>
+  <string name="limit_time_title">제한시간</string>
+  <string name="seconds_format">%ds</string>
+  <string name="game_quit">그만 할래요</string>
 </resources>
