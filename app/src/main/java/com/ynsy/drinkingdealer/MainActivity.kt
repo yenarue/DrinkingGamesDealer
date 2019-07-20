@@ -16,7 +16,6 @@ class MainActivity: Activity() {
 
         with(this) {
             button_start.setOnClickListener { showButtonTextOnToast(it) }
-            button_guide.setOnClickListener { showButtonTextOnToast(it) }
         }
     }
 
