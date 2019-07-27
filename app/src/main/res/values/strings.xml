@@ -5,4 +5,5 @@
   <string name="limit_time_title">제한시간</string>
   <string name="seconds_format">%ds</string>
   <string name="game_quit">그만 할래요</string>
+    <string name="game_over_title">벌칙타임</string>
 </resources>
